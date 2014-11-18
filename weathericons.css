@@ -1,0 +1,145 @@
+.weathericon { background: url('weathericonset.png') no-repeat top left; width: 128px; height: 128px;  } 
+.weathericon.colorful1.01d { background-position: 0px 0px;  } 
+.weathericon.colorful1.01n { background-position: 0px -128px;  } 
+.weathericon.colorful1.02d { background-position: 0px -256px;  } 
+.weathericon.colorful1.02n { background-position: 0px -384px;  } 
+.weathericon.colorful1.03d { background-position: 0px -512px;  } 
+.weathericon.colorful1.03n { background-position: 0px -640px;  } 
+.weathericon.colorful1.04d { background-position: 0px -768px;  } 
+.weathericon.colorful1.04n { background-position: 0px -896px;  } 
+.weathericon.colorful1.09d { background-position: 0px -1024px;  } 
+.weathericon.colorful1.09n { background-position: 0px -1152px;  } 
+.weathericon.colorful1.10d { background-position: 0px -1280px;  } 
+.weathericon.colorful1.10n { background-position: 0px -1408px;  } 
+.weathericon.colorful1.11d { background-position: 0px -1536px;  } 
+.weathericon.colorful1.11n { background-position: 0px -1664px;  } 
+.weathericon.colorful1.13d { background-position: 0px -1792px;  } 
+.weathericon.colorful1.13n { background-position: 0px -1920px;  } 
+.weathericon.colorful1.50d { background-position: 0px -2048px;  } 
+.weathericon.colorful1.50n { background-position: 0px -2176px;  } 
+.weathericon.colorful1.na { background-position: 0px -2304px;  } 
+
+
+
+
+
+
+.weathericon.flatcolorful1.01d { background-position: -128px 0px;  } 
+.weathericon.flatcolorful1.01n { background-position: -128px -128px;  } 
+.weathericon.flatcolorful1.02d { background-position: -128px -256px;  } 
+.weathericon.flatcolorful1.02n { background-position: -128px -384px;  } 
+.weathericon.flatcolorful1.03d { background-position: -128px -512px;  } 
+.weathericon.flatcolorful1.03n { background-position: -128px -640px;  } 
+.weathericon.flatcolorful1.04d { background-position: -128px -768px;  } 
+.weathericon.flatcolorful1.04n { background-position: -128px -896px;  } 
+.weathericon.flatcolorful1.09d { background-position: -128px -1024px;  } 
+.weathericon.flatcolorful1.09n { background-position: -128px -1152px;  } 
+.weathericon.flatcolorful1.10d { background-position: -128px -1280px;  } 
+.weathericon.flatcolorful1.10n { background-position: -128px -1408px;  } 
+.weathericon.flatcolorful1.11d { background-position: -128px -1536px;  } 
+.weathericon.flatcolorful1.11n { background-position: -128px -1664px;  } 
+.weathericon.flatcolorful1.13d { background-position: -128px -1792px;  } 
+.weathericon.flatcolorful1.13n { background-position: -128px -1920px;  } 
+.weathericon.flatcolorful1.50d { background-position: -128px -2048px;  } 
+.weathericon.flatcolorful1.50n { background-position: -128px -2176px;  } 
+.weathericon.flatcolorful1.na { background-position: -128px -2304px;  } 
+
+
+
+
+
+
+.weathericon.dark1.01d { background-position: -256px 0px;  } 
+.weathericon.dark1.01n { background-position: -256px -128px;  } 
+.weathericon.dark1.02d { background-position: -256px -256px;  } 
+.weathericon.dark1.02n { background-position: -256px -384px;  } 
+.weathericon.dark1.03d { background-position: -256px -512px;  } 
+.weathericon.dark1.03n { background-position: -256px -640px;  } 
+.weathericon.dark1.04d { background-position: -256px -768px;  } 
+.weathericon.dark1.04n { background-position: -256px -896px;  } 
+.weathericon.dark1.09d { background-position: -256px -1024px;  } 
+.weathericon.dark1.09n { background-position: -256px -1152px;  } 
+.weathericon.dark1.10d { background-position: -256px -1280px;  } 
+.weathericon.dark1.10n { background-position: -256px -1408px;  } 
+.weathericon.dark1.11d { background-position: -256px -1536px;  } 
+.weathericon.dark1.11n { background-position: -256px -1664px;  } 
+.weathericon.dark1.13d { background-position: -256px -1792px;  } 
+.weathericon.dark1.13n { background-position: -256px -1920px;  } 
+.weathericon.dark1.50d { background-position: -256px -2048px;  } 
+.weathericon.dark1.50n { background-position: -256px -2176px;  } 
+.weathericon.dark1.na { background-position: -256px -2304px;  } 
+
+
+
+
+
+
+.weathericon.flatdark1.01d { background-position: -384px 0px;  } 
+.weathericon.flatdark1.01n { background-position: -384px -128px;  } 
+.weathericon.flatdark1.02d { background-position: -384px -256px;  } 
+.weathericon.flatdark1.02n { background-position: -384px -384px;  } 
+.weathericon.flatdark1.03d { background-position: -384px -512px;  } 
+.weathericon.flatdark1.03n { background-position: -384px -640px;  } 
+.weathericon.flatdark1.04d { background-position: -384px -768px;  } 
+.weathericon.flatdark1.04n { background-position: -384px -896px;  } 
+.weathericon.flatdark1.09d { background-position: -384px -1024px;  } 
+.weathericon.flatdark1.09n { background-position: -384px -1152px;  } 
+.weathericon.flatdark1.10d { background-position: -384px -1280px;  } 
+.weathericon.flatdark1.10n { background-position: -384px -1408px;  } 
+.weathericon.flatdark1.11d { background-position: -384px -1536px;  } 
+.weathericon.flatdark1.11n { background-position: -384px -1664px;  } 
+.weathericon.flatdark1.13d { background-position: -384px -1792px;  } 
+.weathericon.flatdark1.13n { background-position: -384px -1920px;  } 
+.weathericon.flatdark1.50d { background-position: -384px -2048px;  } 
+.weathericon.flatdark1.50n { background-position: -384px -2176px;  } 
+.weathericon.flatdark1.na { background-position: -384px -2304px;  } 
+
+
+
+
+
+
+.weathericon.light1.01d { background-position: -512px 0px;  } 
+.weathericon.light1.01n { background-position: -512px -128px;  } 
+.weathericon.light1.02d { background-position: -512px -256px;  } 
+.weathericon.light1.02n { background-position: -512px -384px;  } 
+.weathericon.light1.03d { background-position: -512px -512px;  } 
+.weathericon.light1.03n { background-position: -512px -640px;  } 
+.weathericon.light1.04d { background-position: -512px -768px;  } 
+.weathericon.light1.04n { background-position: -512px -896px;  } 
+.weathericon.light1.09d { background-position: -512px -1024px;  } 
+.weathericon.light1.09n { background-position: -512px -1152px;  } 
+.weathericon.light1.10d { background-position: -512px -1280px;  } 
+.weathericon.light1.10n { background-position: -512px -1408px;  } 
+.weathericon.light1.11d { background-position: -512px -1536px;  } 
+.weathericon.light1.11n { background-position: -512px -1664px;  } 
+.weathericon.light1.13d { background-position: -512px -1792px;  } 
+.weathericon.light1.13n { background-position: -512px -1920px;  } 
+.weathericon.light1.50d { background-position: -512px -2048px;  } 
+.weathericon.light1.50n { background-position: -512px -2176px;  } 
+.weathericon.light1.na { background-position: -512px -2304px;  } 
+
+
+
+
+
+
+.weathericon.flatlight1.01d { background-position: -640px 0px;  } 
+.weathericon.flatlight1.01n { background-position: -640px -128px;  } 
+.weathericon.flatlight1.02d { background-position: -640px -256px;  } 
+.weathericon.flatlight1.02n { background-position: -640px -384px;  } 
+.weathericon.flatlight1.03d { background-position: -640px -512px;  } 
+.weathericon.flatlight1.03n { background-position: -640px -640px;  } 
+.weathericon.flatlight1.04d { background-position: -640px -768px;  } 
+.weathericon.flatlight1.04n { background-position: -640px -896px;  } 
+.weathericon.flatlight1.09d { background-position: -640px -1024px;  } 
+.weathericon.flatlight1.09n { background-position: -640px -1152px;  } 
+.weathericon.flatlight1.10d { background-position: -640px -1280px;  } 
+.weathericon.flatlight1.10n { background-position: -640px -1408px;  } 
+.weathericon.flatlight1.11d { background-position: -640px -1536px;  } 
+.weathericon.flatlight1.11n { background-position: -640px -1664px;  } 
+.weathericon.flatlight1.13d { background-position: -640px -1792px;  } 
+.weathericon.flatlight1.13n { background-position: -640px -1920px;  } 
+.weathericon.flatlight1.50d { background-position: -640px -2048px;  } 
+.weathericon.flatlight1.50n { background-position: -640px -2176px;  } 
+.weathericon.flatlight1.na { background-position: -640px -2304px;  } 
